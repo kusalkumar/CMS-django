@@ -35,7 +35,8 @@ python manage.py runserver
 ```
 
 6 Step six : home page
-https://user-images.githubusercontent.com/17420868/116688617-956c5d80-a9d4-11eb-91a8-35fad7e2306a.png)
+![image](https://user-images.githubusercontent.com/17420868/117601131-24af0900-b16b-11eb-8a03-245ad1944184.png)
+
 
 7 Step seven User can go to manage posts to perform all the CRUD operations
 
