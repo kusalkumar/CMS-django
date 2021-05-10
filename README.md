@@ -35,11 +35,11 @@ python manage.py runserver
 ```
 
 6 Step six : home page
- file:///home/its4ucharan/Pictures/homepagecrud.png![image](https://user-images.githubusercontent.com/17420868/116688617-956c5d80-a9d4-11eb-91a8-35fad7e2306a.png)
+https://user-images.githubusercontent.com/17420868/116688617-956c5d80-a9d4-11eb-91a8-35fad7e2306a.png)
 
 7 Step seven User can go to manage posts to perform all the CRUD operations
 
-file:///home/its4ucharan/Pictures/crud-manageposts.png![image](https://user-images.githubusercontent.com/17420868/116688754-c187de80-a9d4-11eb-991f-2003dce59be9.png)
+(https://user-images.githubusercontent.com/17420868/116688754-c187de80-a9d4-11eb-991f-2003dce59be9.png)
 
 8 Create view:
 file:///home/its4ucharan/Pictures/crud-create.png![image](https://user-images.githubusercontent.com/17420868/116688798-d49aae80-a9d4-11eb-9d6b-c21d65d3d0d1.png)
